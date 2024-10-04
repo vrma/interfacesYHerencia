@@ -53,5 +53,20 @@ public class App {
         // Intento crear un objeto de tipo Persona, siendo abstracta
         // NO es posible
         // Persona persona = new Persona();
+
+        /**
+         * Ejercicio # 1.
+         * 
+         * Crear una rama y llamarle "solucion-ejercio-1"
+         * 
+         * Crear una clase Bicicleta, abstracta, que contenga todas las propiedades 
+         * que son comunes a todos las bicicletas
+         * 
+         * Hacer que las bicis de montaña y electrica hereden de la clase Bicicleta
+         * 
+         * Crear objetos de tipo bici de Montaña y Electrica e imprimirlos por la 
+         * consola
+         *
+         */
     }
 }
