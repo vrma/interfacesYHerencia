@@ -17,4 +17,12 @@ public class Estudiante extends Persona {
 
     private int totalAsignaturas;
 
+    void platosDeComida() {
+        System.out.println("Se come 3 plato");
+    }
+
+    static void dormir() {
+        System.out.println("5 horas de sueño");
+    }
+
 }
